@@ -1,0 +1,14 @@
+$ npm install animate.css --save
+npm install react-bootstrap-icons --save
+$ npm install react-multi-carousel --save
+ npm install --save react-router-hash-link
+  npm i react-router-dom
+   npm install react-mailchimp-subscribe
+   npm install react-mailchimp-subscribe
+   npm install
+    npm install express cors nodemailer 
+    npm install --save react-on-screen 
+    npm install react-icons --save 
+     npm install react-bootstrap bootstrap
+     npm install @mui/icons-material 
+     npm install @mui/material @emotion/react @emotion/styled
